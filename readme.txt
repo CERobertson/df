@@ -7,4 +7,4 @@ Tiletypes
 http://?
 were used most extensively; 
 
-Just save it as RAW .lua and put it in gui/scripts scripts/gui and call it in DFHack with gui/stamper. I don't know why he linked the reddit thread to Stamper when people are going to be looking for the actual tools lol
+Just save it as .lua and put it in scripts/gui and call it in DFHack with gui/stamper. I don't know why he linked the reddit thread to Stamper when people are going to be looking for the actual tools lol
